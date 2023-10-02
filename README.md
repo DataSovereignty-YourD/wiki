@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="/static/img/YourD_white.png" width="300">
+<img align="center" src="/static/img/YourDLogo-circle.png" width="300"/>
 </p>
 
 <div align="center">
@@ -21,29 +21,28 @@
 - [YourD Overview](#yourd-overview)
 - [YourD Components](#yourd-components)
   - [YourD DID SDK](#yourd-did-sdk)
-    - [Core Features](#core-features)
-    - [GitHub Repositories](#github-repositories)
+      - [GitHub Repositories](#github-repositories)
   - [YourD Login](#yourd-login)
   - [YourD Pass (Mobile App)](#yourd-pass-mobile-app)
-    - [Storage of Verifiable Credentials (VC) for Users](#storage-of-verifiable-credentials-vc-for-users)
-    - [Fast Authentication for Services Using YourD SaaS](#fast-authentication-for-services-using-yourd-saas)
-    - [Compliance with European Design Standards](#compliance-with-european-design-standards)
-    - [Selective Disclosure](#selective-disclosure)
+    - [1. Storage of Verifiable Credentials (VC) for Users](#1-storage-of-verifiable-credentials-vc-for-users)
+    - [2. Fast Authentication for Services Using YourD SaaS](#2-fast-authentication-for-services-using-yourd-saas)
+    - [3. Compliance with European Design Standards](#3-compliance-with-european-design-standards)
+    - [4. Selective Disclosure](#4-selective-disclosure)
   - [YourD Analytics](#yourd-analytics)
   - [DNS (DID Naming Service)](#dns-did-naming-service)
     - [Permissions](#permissions)
     - [Various Contributor Settings Examples](#various-contributor-settings-examples)
   - [Web3 YourDB (Real-time Database)](#web3-yourdb-real-time-database)
   - [YourD Data Leverage Infra](#yourd-data-leverage-infra)
-    - [D-Ad (Walking Ads)](#d-ad-walking-ads)
+    - [1. D-Ad (Walking Ads)](#1-d-ad-walking-ads)
 - [Additional Information](#additional-information)
   - [Resources](#resources)
   - [Hackathon Awards](#hackathon-awards)
-    - [Polkadot](#polkadot--north-america-edition-astar-network---related-link)
-    - [ETHSeoul](#ethseoul---ipfsfile-coin---related-link)
-    - [Klaymakers22](#klaymakers-22---related-aritcle)
-    - [Evmos-Covalent](#evmos-covalent-onemillionwallets-hackathon---related-article)
-    - [Tron](#tron-hackathon---related-article)
+      - [Polkadot : North America Edition: Astar Network - Related Link](#polkadot--north-america-edition-astar-network---related-link)
+      - [ETHSeoul - IPFS/File coin - Related Link](#ethseoul---ipfsfile-coin---related-link)
+      - [Klaymakers 22 - Related Aritcle](#klaymakers-22---related-aritcle)
+      - [Evmos-Covalent #OneMillionWallets Hackathon - Related Article](#evmos-covalent-onemillionwallets-hackathon---related-article)
+      - [Tron Hackathon - Related Article](#tron-hackathon---related-article)
 
 # YourD Overview
 
@@ -80,7 +79,7 @@ For more details, please refer to: [YourD-did-specification](https://github.com/
 **Verifiable Credential:** [View on GitHub](https://github.com/DataSovereignty-YourD/yourD-Verifiable-Credential)
 
 ## YourD Login
-
+<img align="center" src="/static/img/YourDPass_mockups.png" width="300">
 YourD's easy-login feature, based on QR, involves intricate server design and interplay. By merging existing protocols such as FIDO, WebAuthn, and others, YourD offers an authentication server that allows individual DID inquiries and management without breaching Herd Privacy. From the user's perspective, the process might seem straightforward. However, behind the scenes, there's an extensive interplay and interaction taking place. This feature ensures services on Aleo can benefit from easy authentication and login, promoting mass adoption.
 
 **GitHub:** [View on GitHub](https://github.com/DataSovereignty-YourD/yourD-Auth-Server)
@@ -128,7 +127,7 @@ These features reflect YourD's philosophy, which prioritizes user data protectio
 ## YourD Analytics
 
 <p align="center">
-<img align="center" src="/static/img/YourD-Analytics.png" width="500">
+<img align="center" src="/static/img/YourD-Analytics.png" width="500"/>
 </p>
 
 YourD offers a privacy-focused Web3.0 analytics service, enabling existing services to analyze users without violating regulations such as GDPR. Serverless DApps, particularly those on blockchains, have historically faced challenges in user analysis and indexing. With YourD's analytics service, this process becomes straightforward. DApps can benefit from this feature, providing an effective means to understand and manage their user base.
@@ -136,7 +135,8 @@ YourD offers a privacy-focused Web3.0 analytics service, enabling existing servi
 **GitHub:** [View on GitHub](https://github.com/DataSovereignty-YourD/YourD-SaaS)
 
 ## DNS (DID Naming Service)
-
+<img align="center" src="/static/img/DIDns_aleo.png" width="500"/>
+<img align="center" src="/static/img/DIDns_aleo_profile.png" width="500"/>
 ### Permissions
 
 - **Owner:** Can add or remove contributors.
