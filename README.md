@@ -10,7 +10,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://www.markdownguide.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/general/contributing.md)
 [![Twitter](https://img.shields.io/twitter/follow/YourD.svg?style=social)](https://twitter.com/0xCatbox)
-[![Homepage](https://img.shields.io/badge/YourD-yellow.svg)](https://www.yourd.xyz/)
+[![Homepage](https://img.shields.io/badge/Homepage-YourD-yellow.svg)](https://www.yourd.xyz/)
 
 </div>
 
