@@ -20,12 +20,21 @@
 - [YourD Overview](#yourd-overview)
 - [YourD Components](#yourd-components)
   - [YourD DID SDK](#yourd-did-sdk)
+    - [Core Features](#core-features)
+    - [GitHub Repositories](#github-repositories)
   - [YourD Login](#yourd-login)
   - [YourD Pass (Mobile App)](#yourd-pass-mobile-app)
+    - [Storage of Verifiable Credentials (VC) for Users](#storage-of-verifiable-credentials-vc-for-users)
+    - [Fast Authentication for Services Using YourD SaaS](#fast-authentication-for-services-using-yourd-saas)
+    - [Compliance with European Design Standards](#compliance-with-european-design-standards)
+    - [Selective Disclosure](#selective-disclosure)
   - [YourD Analytics](#yourd-analytics)
   - [DNS (DID Naming Service)](#dns-did-naming-service)
+    - [Permissions](#permissions)
+    - [Various Contributor Settings Examples](#various-contributor-settings-examples)
   - [Web3 YourDB (Real-time Database)](#web3-yourdb-real-time-database)
   - [YourD Data Leverage Infra](#yourd-data-leverage-infra)
+    - [D-Ad (Walking Ads)](#d-ad-walking-ads)
 
 # YourD Overview
 
