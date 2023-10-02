@@ -74,6 +74,8 @@ For more details, please refer to: [YourD-did-specification](https://github.com/
 
 YourD's easy-login feature, based on QR, involves intricate server design and interplay. By merging existing protocols such as FIDO, WebAuthn, and others, YourD offers an authentication server that allows individual DID inquiries and management without breaching Herd Privacy. From the user's perspective, the process might seem straightforward. However, behind the scenes, there's an extensive interplay and interaction taking place. This feature ensures services on Aleo can benefit from easy authentication and login, promoting mass adoption.
 
+**GitHub:** [View on GitHub](https://github.com/DataSovereignty-YourD/yourD-Auth-Server)
+
 ## YourD Pass (Mobile App)
 
 **YourD Pass offers three primary features:**
@@ -149,6 +151,8 @@ To be reflected in the PublicLabels:
 It is meticulously crafted to surmount the challenges faced by serverless DApps and blockchain platforms in real-time user analysis and indexing. It provides a robust infrastructure that caters to the instantaneous, dynamic data needs without compromising user privacy or breaching legal constraints.
 
 This real-time database integrates seamlessly with YourD Analytics, offering a symphony of real-time data access, analytics precision, and privacy preservation. Service providers and developers are equipped with a tool that not only facilitates real-time insights and actions but also ensures that every data interaction is anchored in the principles of privacy and compliance. The amalgamation of speed, accuracy, and privacy makes YourD’s real-time database an indispensable asset for web3 projects aspiring to scale, adapt, and evolve in alignment with user expectations and legal standards.
+
+**GitHub:** 
 
 ## YourD Data Leverage Infra
 
