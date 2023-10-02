@@ -51,13 +51,14 @@ YourD is your ultimate destination for simplified Web 3.0 login, user-centric da
 <img align="center" src="/static/img/YourD-DID-Architechture.png" width="500">
 </p>
 
-The identifier formats provided by YourD based on the SDK are as follows:
+The YourD DID SDK is a comprehensive toolkit and library suite designed to empower developers and businesses to effortlessly build applications and services on a Decentralized Identifier (DID) foundation in the Web 3.0 ecosystem. Engineered with an emphasis on openness, security, and privacy, the SDK ensures that digital identities are user-centric, upholding data ownership principles and enabling real-time user analytics.
 
-did:[blockchain identifier]:[network identifier]:[program ID]
+For more details, please refer to: [YourD-did-specification](https://github.com/DataSovereignty-YourD/YourD-did-sepcification)
 
 #### GitHub Repositories
 
 **Resolver:** [View on GitHub](https://github.com/DataSovereignty-YourD/yourd-resolver)
+
 **Verifiable Credential:** [View on GitHub](https://github.com/DataSovereignty-YourD/yourD-Verifiable-Credential)
 
 ## YourD Login
