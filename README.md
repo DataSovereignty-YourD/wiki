@@ -79,7 +79,7 @@ For more details, please refer to: [YourD-did-specification](https://github.com/
 **Verifiable Credential:** [View on GitHub](https://github.com/DataSovereignty-YourD/yourD-Verifiable-Credential)
 
 ## YourD Login
-<img align="center" src="/static/img/YourDPass_mockups.png" width="300">
+<img align="center" src="/static/img/YourDPass_mockups.png" width="700">
 YourD's easy-login feature, based on QR, involves intricate server design and interplay. By merging existing protocols such as FIDO, WebAuthn, and others, YourD offers an authentication server that allows individual DID inquiries and management without breaching Herd Privacy. From the user's perspective, the process might seem straightforward. However, behind the scenes, there's an extensive interplay and interaction taking place. This feature ensures services on Aleo can benefit from easy authentication and login, promoting mass adoption.
 
 **GitHub:** [View on GitHub](https://github.com/DataSovereignty-YourD/yourD-Auth-Server)
@@ -135,8 +135,8 @@ YourD offers a privacy-focused Web3.0 analytics service, enabling existing servi
 **GitHub:** [View on GitHub](https://github.com/DataSovereignty-YourD/YourD-SaaS)
 
 ## DNS (DID Naming Service)
-<img align="center" src="/static/img/DIDns_aleo.png" width="500"/>
-<img align="center" src="/static/img/DIDns_aleo_profile.png" width="500"/>
+<img align="center" src="/static/img/DIDns_aleo.png" width="700"/>
+<img align="center" src="/static/img/DIDns_aleo_profile.png" width="700"/>
 ### Permissions
 
 - **Owner:** Can add or remove contributors.
