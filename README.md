@@ -182,8 +182,11 @@ Video demo link minimal MVP : [View on Youtube](https://youtu.be/GpFd8h3oj88)
 For a more detailed overview of YourD, please refer to the accompanying resources below.
 
 Pitch deck link: [Pitch Deck](https://docs.google.com/presentation/d/1RTPFkZnuFlukM08RwIJIOcwNM1d8R2eIAKWWhKk8cRU/edit#slide=id.g27ae4fecafd_0_388)
+
 TTI Demo Day: [Tezos Demo Day Article](https://www.tzapac.com/articles/reliving-demo-day-of-the-tz-apac-tezos-incubator-cohort-2/?utm_source=Content+Hub&utm_medium=Twitter&utm_campaign=DemoDay_TZAPAC)
+
 TTI Demo Day Video link: [View on Twitter](https://twitter.com/i/status/1699293320705704274)
+
 YourD D-ad Article:[Tezos Article](https://www.tzapac.com/articles/the-future-of-advertising-is-decentralized-this-startup-shows-us-why/)
 
 ## Hackathon Awards
