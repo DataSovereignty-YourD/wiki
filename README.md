@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="/static/img/YourD-Logo-high.png" width="300">
+<img align="center" src="/static/img/YourD_white.png" width="300">
 </p>
 
 <div align="center">
