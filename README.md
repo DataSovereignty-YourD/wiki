@@ -127,6 +127,10 @@ These features reflect YourD's philosophy, which prioritizes user data protectio
 
 ## YourD Analytics
 
+<p align="center">
+<img align="center" src="/static/img/YourD-Analytics.png" width="500">
+</p>
+
 YourD offers a privacy-focused Web3.0 analytics service, enabling existing services to analyze users without violating regulations such as GDPR. Serverless DApps, particularly those on blockchains, have historically faced challenges in user analysis and indexing. With YourD's analytics service, this process becomes straightforward. DApps can benefit from this feature, providing an effective means to understand and manage their user base.
 
 **GitHub:** [View on GitHub](https://github.com/DataSovereignty-YourD/YourD-SaaS)
