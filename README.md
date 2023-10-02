@@ -172,7 +172,7 @@ This real-time database integrates seamlessly with YourD Analytics, offering a s
 ### 1. D-Ad (Walking Ads)
 
 <p align="center">
-<img align="center" src="/static/img/D-Ad-Dashboard.png" width="500">
+<img align="center" src="/static/img/D-Ad-Dashboard.png" width="700">
 </p>
 
 It is YourD targeted advertisement without data collection. Companies utilizing YourD infrastructure can generate new revenue through the web3.0 advertising protocol without collecting personal data. The web3.0 advertising protocol is written through a circuit using iden3's circom. This protocol operates by sending pre-labeled advertisements to users based on various personal information, ensuring ads match user preferences. Users, in turn, can earn coins as rewards. Instead of creating tokens, our design utilizes the mainnet's native coin, aiming to boost the coin's liquidity and utility, even in real-world scenarios. You can find a detailed explanation and anticipated outcomes of this service in the demo link provided and the appendix section of the pitch deck.
