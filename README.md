@@ -36,6 +36,13 @@
   - [Web3 YourDB (Real-time Database)](#web3-yourdb-real-time-database)
   - [YourD Data Leverage Infra](#yourd-data-leverage-infra)
     - [D-Ad (Walking Ads)](#d-ad-walking-ads)
+- [Additional Information](#additional-information)
+  - [Hackathon Awards](#hackathon-awards)
+    - [Polkadot](#polkadot--north-america-edition-astar-network---related-link)
+    - [ETHSeoul](#ethseoul---ipfsfile-coin---related-link)
+    - [Klaymakers22](#klaymakers-22---related-aritcle)
+    - [Evmos-Covalent](#evmos-covalent-onemillionwallets-hackathon---related-article)
+    - [Tron](#tron-hackathon---related-article)
 
 # YourD Overview
 
@@ -153,7 +160,7 @@ It is meticulously crafted to surmount the challenges faced by serverless DApps 
 
 This real-time database integrates seamlessly with YourD Analytics, offering a symphony of real-time data access, analytics precision, and privacy preservation. Service providers and developers are equipped with a tool that not only facilitates real-time insights and actions but also ensures that every data interaction is anchored in the principles of privacy and compliance. The amalgamation of speed, accuracy, and privacy makes YourD’s real-time database an indispensable asset for web3 projects aspiring to scale, adapt, and evolve in alignment with user expectations and legal standards.
 
-**GitHub:** 
+**GitHub:**
 
 ## YourD Data Leverage Infra
 
@@ -166,12 +173,27 @@ This real-time database integrates seamlessly with YourD Analytics, offering a s
 It is YourD targeted advertisement without data collection. Companies utilizing YourD infrastructure can generate new revenue through the web3.0 advertising protocol without collecting personal data. The web3.0 advertising protocol is written through a circuit using iden3's circom. This protocol operates by sending pre-labeled advertisements to users based on various personal information, ensuring ads match user preferences. Users, in turn, can earn coins as rewards. Instead of creating tokens, our design utilizes the mainnet's native coin, aiming to boost the coin's liquidity and utility, even in real-world scenarios. You can find a detailed explanation and anticipated outcomes of this service in the demo link provided and the appendix section of the pitch deck.
 
 Demo - Klaymakers22 Winner
-Video demo link minimal MVP : https://youtu.be/GpFd8h3oj88
-
-D-Ad Pitch deck link: https://docs.google.com/presentation/d/1RTPFkZnuFlukM08RwIJIOcwNM1d8R2eIAKWWhKk8cRU/edit#slide=id.g27ae4fecafd_0_401
+Video demo link minimal MVP : [View on Youtube](https://youtu.be/GpFd8h3oj88)
 
 **GitHub:** [View on GitHub](https://github.com/DataSovereignty-YourD/D-Ad-app-Beta)
 
-For a more detailed overview of YourD, please refer to the accompanying pitch deck.
+# Additional Information
 
-Pitch deck link: https://docs.google.com/presentation/d/1RTPFkZnuFlukM08RwIJIOcwNM1d8R2eIAKWWhKk8cRU/edit#slide=id.g27ae4fecafd_0_388
+For a more detailed overview of YourD, please refer to the accompanying resources below.
+
+Pitch deck link: [Pitch Deck](https://docs.google.com/presentation/d/1RTPFkZnuFlukM08RwIJIOcwNM1d8R2eIAKWWhKk8cRU/edit#slide=id.g27ae4fecafd_0_388)
+TTI Demo Day: [Tezos Demo Day Article](https://www.tzapac.com/articles/reliving-demo-day-of-the-tz-apac-tezos-incubator-cohort-2/?utm_source=Content+Hub&utm_medium=Twitter&utm_campaign=DemoDay_TZAPAC)
+TTI Demo Day Video link: [View on Twitter](https://twitter.com/i/status/1699293320705704274)
+YourD D-ad Article:[Tezos Article](https://www.tzapac.com/articles/the-future-of-advertising-is-decentralized-this-startup-shows-us-why/)
+
+## Hackathon Awards
+
+#### Polkadot : North America Edition: Astar Network - [Related Link](https://devpost.com/software/comit)
+
+#### ETHSeoul - IPFS/File coin - [Related Link](https://devfolio.co/projects/soul-tag-f317)
+
+#### Klaymakers 22 - [Related Aritcle](https://medium.com/klaytn/announcing-the-winners-of-klaymakers22-klaytns-flagship-web3-hackathon-ef5e918bd440)
+
+#### Evmos-Covalent #OneMillionWallets Hackathon - [Related Article](https://www.blog.encode.club/evmos-covalent-onemillionwallets-hackathon-prizewinners-and-summary-22fca2302c37)
+
+#### Tron Hackathon - [Related Article](https://finance.yahoo.com/news/happy-holidays-tron-grand-hackathon-184527912.html)
