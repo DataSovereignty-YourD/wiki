@@ -143,6 +143,7 @@ YourD offers a privacy-focused Web3.0 analytics service, enabling existing servi
 <br/>
 <img align="center" src="/static/img/DIDns_aleo_profile.png" width="500"/>
 </p>
+
 ### Permissions
 
 - **Owner:** Can add or remove contributors.
